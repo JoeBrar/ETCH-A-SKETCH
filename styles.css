@@ -1,0 +1,18 @@
+*{
+    margin:0px;
+    padding:0px;
+    box-sizing: border-box;
+}
+.grid-container{
+    width:400px;
+    margin:auto;
+    background-color: aqua;
+}
+.square{
+    float:left;
+    background-color: red;
+    border:1px solid black;
+}
+.clear{
+    clear:both;
+}
