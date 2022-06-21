@@ -4,7 +4,6 @@
     box-sizing: border-box;
 }
 .grid-container{
-    width:400px;
     margin:auto;
     background-color: aqua;
 }
@@ -15,4 +14,13 @@
 }
 .clear{
     clear:both;
+}
+.heading{
+    text-align: center;
+    background-color: aqua;
+    font-family: Helvetica, Arial, sans-serif;
+}
+.ChangeGrid{
+    margin: 10px 0px;
+    text-align: center;
 }
