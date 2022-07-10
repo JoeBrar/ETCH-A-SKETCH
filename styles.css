@@ -3,9 +3,7 @@
     padding:0px;
     box-sizing: border-box;
 }
-body{
-    background-color:limegreen;
-}
+
 .grid-container{
     margin:auto;
     background-color: aqua;
@@ -20,7 +18,7 @@ body{
 }
 .heading{
     text-align: center;
-    background-color: aqua;
+    background-color: limegreen;
     font-family: Helvetica, Arial, sans-serif;
 }
 .ChangeGrid{
