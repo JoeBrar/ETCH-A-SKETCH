@@ -3,7 +3,7 @@
     padding:0px;
     box-sizing: border-box;
 }
-.body{
+body{
     background-color:lime;
 }
 .grid-container{
