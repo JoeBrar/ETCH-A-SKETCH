@@ -3,6 +3,9 @@
     padding:0px;
     box-sizing: border-box;
 }
+.body{
+    background-color:lime;
+}
 .grid-container{
     margin:auto;
     background-color: aqua;
