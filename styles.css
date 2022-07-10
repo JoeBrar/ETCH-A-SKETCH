@@ -18,10 +18,13 @@
 }
 .heading{
     text-align: center;
-    background-color: orange;
+    background-color: aqua;
     font-family: Helvetica, Arial, sans-serif;
 }
 .ChangeGrid{
     margin: 10px 0px;
     text-align: center;
+}
+.ChangeGrid div{
+    font-size:10px;
 }
