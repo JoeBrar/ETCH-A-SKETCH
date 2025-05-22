@@ -6,7 +6,7 @@
 
 .grid-container{
     margin:auto;
-    background-color: aqua;
+    /* background-color: aqua; */ /* Removed */
 }
 .square{
     float:left;
